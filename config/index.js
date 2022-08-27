@@ -3,9 +3,9 @@ export const config = {
     // 公众号appId
     appId: "wx10edcd20716535d6",
     // 公众号appSecret
-    appSecret: "8f704cf601f2ecf5112910934565e597",
+    appSecret: "b193d57eae69efbef161383d2102ac20",
     // 模板消息id
-    templateId: "vyCqgfggZfo1bB8QcPnvW1Aj76AuM9MyU-2f1tN_rSc	",
+    templateId: "vr_D6CSZ1Iw-_5E6YClEigoycabbJwqk_-2mFBrusF8",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     user: [of6NN5gEs3VhAlCpVZiFwNaAOBc4],
      
@@ -21,8 +21,6 @@ export const config = {
     ],
     // 在一起的日子，格式同上
     loveDate: "2021-10-01",
-    // 结婚纪念日
-    marryDate: "2021-10-01"
     }
 
 // {{date.DATA}}  

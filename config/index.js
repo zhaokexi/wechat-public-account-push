@@ -21,8 +21,6 @@ export const config = {
     ],
     // 在一起的日子，格式同上
     loveDate: "2021-10-01",
-    // 结婚纪念日
-    marryDate: "2021-10-01"
     }
 
 // {{date.DATA}}  

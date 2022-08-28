@@ -13,7 +13,7 @@ export const config = {
     // 所在省份
     province: "山西",
     // 所在城市
-    city: "临汾",
+    city: "临汾古县",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
       {"name": "悦悦", "year": "2004", "date": "08-15", "type": 'r'},
